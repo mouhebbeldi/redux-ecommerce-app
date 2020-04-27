@@ -1,61 +1,69 @@
 {
-    "items":[
-        {
-            "id":"1",
-            "name":"shoes",
-            "availble":true,
-            "price":"50",
-            "quantity":"33"
-
-        },
-        {
-            "id":"2",
-            "name":"shirt",
-            "availble":false,
-            "price":"20",
-            "quantity":"21"
-
-        },
-        {
-            "id":"3",
-            "name":"desk",
-            "availble":true,
-            "price":"1200",
-            "quantity":"3"
-
-        },
-        {
-            "id":"4",
-            "name":"jacket",
-            "availble":true,
-            "price":"220",
-            "quantity":"12"
-
-        }
-    ],
-    "cart":[
-        {
-            "id":"1",
-            "number":"2",
-            "userId":"1"
-        },
-        {
-            "id":"4",
-            "number":"1",
-            "userId":"2"
-        }
-    ],
-    "users":[
-        {
-            "id":"1",
-            "username":"mouheb"
-
-        },
-        {
-            "id":"2",
-            "username":"mouhamed"
-
-        } 
-
-    ]
+  "items": [
+    {
+      "id": "1",
+      "name": "shoes",
+      "availble": true,
+      "price": "50",
+      "quantity": "33"
+    },
+    {
+      "id": "2",
+      "name": "shirt",
+      "availble": false,
+      "price": "20",
+      "quantity": "0"
+    },
+    {
+      "id": "3",
+      "name": "desk",
+      "availble": true,
+      "price": "1200",
+      "quantity": "3"
+    },
+    {
+      "id": "4",
+      "name": "jacket",
+      "availble": true,
+      "price": "220",
+      "quantity": "12"
+    },
+    {
+      "id": "5",
+      "name": "glaces",
+      "availble": false,
+      "price": "220",
+      "quantity": "0"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "number": "2",
+      "userId": "1"
+    },
+    {
+      "id": "4",
+      "number": "1",
+      "userId": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "mouheb"
+    },
+    {
+      "id": "2",
+      "username": "mouhamed"
+    },
+    {
+      "id": "3",
+      "username": "maria"
+    },
+    {
+      "id": "4",
+      "username": "samir"
+    }
+  ]
 }
