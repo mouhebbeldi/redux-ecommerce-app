@@ -1,0 +1,61 @@
+{
+    "items":[
+        {
+            "id":"1",
+            "name":"shoes",
+            "availble":true,
+            "price":"50",
+            "quantity":"33"
+
+        },
+        {
+            "id":"2",
+            "name":"shirt",
+            "availble":false,
+            "price":"20",
+            "quantity":"21"
+
+        },
+        {
+            "id":"3",
+            "name":"desk",
+            "availble":true,
+            "price":"1200",
+            "quantity":"3"
+
+        },
+        {
+            "id":"4",
+            "name":"jacket",
+            "availble":true,
+            "price":"220",
+            "quantity":"12"
+
+        }
+    ],
+    "cart":[
+        {
+            "id":"1",
+            "number":"2",
+            "userId":"1"
+        },
+        {
+            "id":"4",
+            "number":"1",
+            "userId":"2"
+        }
+    ],
+    "users":[
+        {
+            "id":"1",
+            "username":"mouheb"
+
+        },
+        {
+            "id":"2",
+            "username":"mouhamed"
+
+        } 
+
+    ]
+}
